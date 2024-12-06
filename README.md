@@ -1,6 +1,6 @@
 # Boootcamp_DIO_Caixa_Controlefinanceiro
 
-> ℹ️ **NOTE:** Este é o repositório criado pelo aluno Rômulo, durante o Bootcamp da Caixa/DIO
+ℹ️ **NOTE:** Este é o repositório criado pelo aluno Rômulo, durante o Bootcamp da Caixa/DIO
 
 Projeto com o objetivo de gerar um planilha de controle financeiro.
 
@@ -18,13 +18,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Criação de planilha e filtro de dados Excel
 - Exibição de dados PowerBi
 
-## 📚 Materiais
+## ![image](https://github.com/user-attachments/assets/f7fe3b65-db70-4798-982c-32259ea9c69c) Materiais
 
 - [Arquivo do Exercício](output/exercicio%20dio.pbix)
                                                        
-
-                                                               ![image](https://github.com/user-attachments/assets/f7fe3b65-db70-4798-982c-32259ea9c69c)
-
 
 ## 📚 Resultado do Projeto
 
